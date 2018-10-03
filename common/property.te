@@ -137,3 +137,6 @@ type mmi_prop, property_type;
 
 #imsrcsservice
 type ctl_vendor_imsrcsservice_prop, property_type;
+
+#wlan-vendor prop
+type vendor_wifi_prop, property_type;
